@@ -1,3 +1,3 @@
 # IMDB-Movies-Dataset
-Basic Visualization of Dataset
-IMDB Dataset exploration 
+Basic Visualization of the IMDB Dataset. I have done the exploratory analysis of the dataset focusing on all the key factors.
+
